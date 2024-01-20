@@ -1,3 +1,16 @@
+
+
+
+![Screenshot (341)](https://github.com/swathimuneeswaran/React-Task-1/assets/113039047/3eb3a532-9eab-4ecf-8da1-f08ee9c3a51a)
+
+This website is built using react and bootstrap 
+
+
+
+
+
+These are steps to develop react project and run that project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
